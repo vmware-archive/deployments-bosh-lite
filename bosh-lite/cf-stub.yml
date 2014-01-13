@@ -1,2 +1,6 @@
 ---
 name: cf-bosh-lite
+
+releases:
+- name: cf
+  version: latest
